@@ -1,0 +1,28 @@
+.titre { color: navy;
+	
+    text-align: center;
+}
+
+h1 { color: navy;
+	
+    text-align: center;
+}
+
+.bon { color: green;
+		text-align: center;
+}
+
+carrousel{
+    position:relative;
+    height:200px;
+    width:700px;
+    margin:auto;
+}
+carrousel ul li{
+    position:absolute;
+    top:0;
+    left:0;
+}
+
+
+
